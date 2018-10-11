@@ -1,0 +1,471 @@
+[
+  
+    {
+    "title":"مباريات اليوم",
+    "drawable":"",
+    "submenu":"النسخة الثانية من التطبيق",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://kora-online.tv/"
+        ]
+      }
+    ]
+
+  },
+	 {
+    "title":"نتائج مباشرة",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.matchendirect.fr/"
+        ]
+      }
+    ]
+
+  },
+	 {
+    "title":"مقابلات مباشرة الان",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/live"
+        ]
+      }
+    ]
+
+  },
+	
+ {
+    "title":"ترتيب الدوريات",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/standings"
+        ]
+      }
+    ]
+
+  },	
+	
+	
+  {
+    "title":"ملخصات و أهداف",
+    "drawable":"",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	          {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfz75r62VqNNbiLgF_CukaA",
+          "channel"
+        ]
+      },  
+	        {
+        "title":"2الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCLT0U-qIpN71Nruvxg5jKhA",
+          "channel"
+        ]
+      },  
+	
+	        {
+        "title":"جميع الدوريات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7C-kigODYM1DhEO14yKXAA",
+          "channel"
+        ]
+      },  
+	
+	         {
+        "title":"دوريات عربية",
+        "provider":"youtube",
+        "arguments":[
+          "UClE5zzddLBcBwD2n7RfnWmQ",
+          "channel"
+        ]
+      },  
+	
+	            {
+        "title":"ملخصات عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCfZ0cC-UlXMVWQ6rCvP3dLw",
+          "channel"
+        ]
+      },  
+	    
+	  	  	   {
+        "title":"الدوري الاسباني",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	  	   {
+        "title":"الدوري الفرنسي",
+        "provider":"youtube",
+        "arguments":[
+          "UC58LMAlfwtGRNR6Xpd4DlSA",
+          "channel"
+
+        ]
+      },
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
+      }
+	   ,
+	       {
+        "title":"مباريات ",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+        ]
+      },  
+	
+	     {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      },
+	
+	    	     {
+        "title":"بي اين الاخبارية",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+      },
+	
+	 
+	          {
+        "title":"أخبار الرياضة",
+        "provider":"youtube",
+        "arguments":[
+          "UC51TwW6evn4oWD8rPBZVynQ",
+          "channel"
+
+        ]
+      },
+	    	          {
+        "title": "On Sport",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
+	    
+
+ 
+	  
+	     
+	
+
+	
+	     {
+              "title":"تعليق عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      }
+	    ,
+	  
+	  	  	
+
+	    {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
+
+        ]
+      },
+	      
+     
+	     
+	    
+   {
+        "title":"Le Sport avec CANAL",
+        "provider":"youtube",
+        "arguments":[
+          "UC8ggH3zU61XO0nMskSQwZdA",
+          "channel"
+
+        ]
+      },
+	
+	    
+	    {
+        "title":"Foot Mercato",
+        "provider":"youtube",
+        "arguments":[
+          "UCrzDtXyuSBch2u_31JJj-Dw",
+          "channel"
+
+        ]
+      }
+	    ,
+	    {
+        "title":"AFTER FOOT",
+        "provider":"youtube",
+        "arguments":[
+          "UCUdwSuEopnWNpibR9-dgciw",
+          "channel"
+
+        ]
+      },
+
+	
+      {
+              "title":"تعليق عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      }
+	  
+    ]
+  },
+	  {
+    "title":"CNN Arabic",
+    "drawable":"",
+    "submenu":"أخبار سريعة",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "https://arabic.cnn.com/api/v1/rss/sport/rss.xml"
+
+
+        ]
+      }
+    ]
+  },
+	{
+    "title":"Youm 7",
+    "drawable":"",
+    "submenu":"أخبار سريعة",
+    "iap":false,
+    "tabs":[
+
+      {
+        "title":"FRance 24",
+        "provider":"rss",
+        "arguments":[
+          "https://www.youm7.com/rss/SectionRss?SectionID=298"
+
+
+        ]
+      }
+    ]
+  },
+		   
+	    {
+    "title":"بث مباشر 2",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.as-goal.com"
+        ]
+      }
+    ]
+	    }
+  ,
+  {
+    "title":"النتائج",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.goal.com/ar/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AD%D8%A7%D9%84%D9%8A%D9%8B%D8%A7"
+        ]
+      }
+    ]
+
+  },
+  
+  
+
+  {
+    "title":"ملخصات و أهداف",
+    "drawable":"",
+    "submenu":"كورة عربية",
+    "iap":false,
+    "tabs":[
+	      {
+        "title":"تونس",
+        "provider":"youtube",
+        "arguments":[
+          "UCa44LffDN9BNwyGgWpNtBNw",
+          "channel"
+        ]
+      },
+	        {
+        "title":"الجزائر",
+        "provider":"youtube",
+        "arguments":[
+          "UCTP99Nt2BY_xG6gahWXhK5A",
+          "channel"
+        ]
+      },
+	    	     {
+        "title":"المغرب",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+      },
+	    
+	    	          {
+        "title": "كورة مصرية",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
+	    
+	        
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
+      },
+	   
+	       {
+        "title":"كورة عربية",
+        "provider":"youtube",
+        "arguments":[
+          "UCe9Wb6D8SQR0gyNfgNLZaiw",
+          "channel"
+        ]
+      },
+	          {
+        "title":"متابعات",
+        "provider":"youtube",
+        "arguments":[
+          "UCMrQESW0BGrblhB9uo3Qg5w",
+          "channel"
+        ]
+      }
+	  
+	  
+    ]
+  },
+  {
+    "title":"بث مباشر",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
+        ]
+      }
+    ]
+
+  },
+	
+	
+
+
+
+  {
+    "title":"فيديوهات",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "overview.json"
+        ]
+      }
+    ]
+  },
+	
+	
+	
+
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.monappli.koura.bath.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
