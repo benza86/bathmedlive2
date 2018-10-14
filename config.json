@@ -16,57 +16,7 @@
     ]
 
   },
-	 {
-    "title":"نتائج مباشرة",
-    "drawable":"",
-    "submenu":"نتائج",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.matchendirect.fr/"
-        ]
-      }
-    ]
 
-  },
-	 {
-    "title":"مقابلات مباشرة الان",
-    "drawable":"",
-    "submenu":"نتائج",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://t.flashscore.ca/#!/soccer/live"
-        ]
-      }
-    ]
-
-  },
-	
- {
-    "title":"ترتيب الدوريات",
-    "drawable":"",
-    "submenu":"نتائج",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://t.flashscore.ca/#!/soccer/standings"
-        ]
-      }
-    ]
-
-  },	
-	
-	
   {
     "title":"ملخصات و أهداف",
     "drawable":"",
@@ -269,6 +219,57 @@
 	  
     ]
   },
+		 {
+    "title":"نتائج مباشرة",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.matchendirect.fr/"
+        ]
+      }
+    ]
+
+  },
+	 {
+    "title":"مقابلات مباشرة الان",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/live"
+        ]
+      }
+    ]
+
+  },
+	
+ {
+    "title":"ترتيب الدوريات",
+    "drawable":"",
+    "submenu":"نتائج",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/standings"
+        ]
+      }
+    ]
+
+  },	
+	
+	
 	  {
     "title":"CNN Arabic",
     "drawable":"",
