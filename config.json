@@ -23,16 +23,8 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
-	          {
-        "title":"الاهداف و الملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfz75r62VqNNbiLgF_CukaA",
-          "channel"
-        ]
-      },  
 	        {
-        "title":"2الاهداف و الملخصات",
+        "title":"الاهداف و الملخصات",
         "provider":"youtube",
         "arguments":[
           "UCLT0U-qIpN71Nruvxg5jKhA",
