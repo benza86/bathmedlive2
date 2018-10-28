@@ -3,7 +3,23 @@
     {
     "title":"مباريات اليوم",
     "drawable":"",
-    "submenu":"النسخة الثانية من التطبيق",
+    "submenu":"1 بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://kora-online.tv/"
+        ]
+      }
+    ]
+
+  },
+	    {
+    "title":"مباريات اليوم",
+    "drawable":"",
+    "submenu":"2 بث مباشر",
     "iap":false,
     "tabs":[
       {
