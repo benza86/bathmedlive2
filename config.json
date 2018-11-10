@@ -1,9 +1,9 @@
 [
   
-    {
-    "title":"مباريات اليوم",
+     {
+    "title":"غير اتجاه الشاشة أفقي قبل الضغط Full Screen",
     "drawable":"",
-    "submenu":"1 بث مباشر",
+    "submenu":"1 بث مباشر Change orientation ",
     "iap":false,
     "tabs":[
       {
@@ -19,7 +19,7 @@
 	    {
     "title":"مباريات اليوم",
     "drawable":"",
-    "submenu":"2 بث مباشر",
+    "submenu":"2 بث مباشر Change orientation",
     "iap":false,
     "tabs":[
       {
