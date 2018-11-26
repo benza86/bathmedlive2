@@ -39,6 +39,14 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
+	 {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCLSsSVzTmf8TN7CXAJ0Bucw",
+          "channel"
+        ]
+      },  
 	   {
         "title":"الاهداف و الملخصات",
         "provider":"youtube",
@@ -47,6 +55,38 @@
           "channel"
         ]
       },  
+	   {
+        "title":"المغرب ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7eosR_uR44AGmOFTUWa_UA",
+          "channel"
+        ]
+      },  
+	       {
+        "title":"الجزائر ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7eosR_uR44AGmOFTUWa_UA",
+          "channel"
+        ]
+      },  
+	          {
+        "title":"مصر ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCB36jBOj5L5YcwUGj82rOCQ",
+          "channel"
+        ]
+      },  
+	              {
+        "title":"تونس ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCXEvtyhAE2iXh2-r7TlAh2A",
+          "channel"
+        ]
+      }, 
 	
 	        {
         "title":"الاهداف و الملخصات",
