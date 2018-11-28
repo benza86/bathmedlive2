@@ -47,11 +47,11 @@
           "channel"
         ]
       },  
-	   {
+		   {
         "title":"الاهداف و الملخصات",
         "provider":"youtube",
         "arguments":[
-          "UC7zHtTNiRxW-OR6etKH644A",
+          "UCCM5fsV2eD49qd97gPMA1RA",
           "channel"
         ]
       },  
@@ -119,15 +119,6 @@
         ]
       },  
 	
-	            {
-        "title":"ملخصات عربي",
-        "provider":"youtube",
-        "arguments":[
-          "UCfZ0cC-UlXMVWQ6rCvP3dLw",
-          "channel"
-        ]
-      },  
-	    
 	  	  	   {
         "title":"الدوري الاسباني",
         "provider":"youtube",
