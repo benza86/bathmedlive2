@@ -39,6 +39,15 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
+	    	        {
+        "title":"الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCLT0U-qIpN71Nruvxg5jKhA",
+          "channel"
+        ]
+      },  
+	
 	      	   {
         "title":"الاهداف و الملخصات",
         "provider":"youtube",
@@ -55,14 +64,7 @@
           "channel"
         ]
       },  
-		   {
-        "title":"الاهداف و الملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UCCM5fsV2eD49qd97gPMA1RA",
-          "channel"
-        ]
-      },  
+	
 	   {
         "title":"المغرب ملخصات",
         "provider":"youtube",
